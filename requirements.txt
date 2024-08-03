@@ -1,7 +1,6 @@
-flask==3.0.3
-#fastapi==0.112.0
-asyncpg==0.29.0
-sqlalchemy==2.0.31
+Flask==2.1.1
+Werkzeug==2.1.1
+SQLAlchemy==1.4.36
+psycopg2==2.9.3
+python-dotenv==0.20.0
 uvicorn==0.30.5
-pydantic==2.8.0
-python_dotenv==1.0.1
