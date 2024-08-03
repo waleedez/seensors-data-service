@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/devcontainers/features/python:3.12",
+  "image": "ghcr.io/devcontainers/features/python:1.6.3",
   "features": {
   }
 }
